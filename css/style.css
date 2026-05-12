@@ -682,7 +682,7 @@ ul {
    border: #7C2D12 solid 2px ;
   border-radius: 12px;
   overflow: hidden;
-  /* position: relative; */
+  position: relative ;
 }
 
 .galerie-bloc12 img {
